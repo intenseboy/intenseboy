@@ -1,2 +1,2 @@
 # intenseboy
-intenseboy's palce
+intenseboy's place
